@@ -1,0 +1,4468 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-19T10:29:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659653199",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Juice (electric cars)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1447999,
+          51.5095261
+        ]
+      },
+      "id": "node/659653199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/852122441",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1514889,
+          51.5168689
+        ]
+      },
+      "id": "node/852122441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180785705",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Electric Car Charge Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0134067,
+          51.4824676
+        ]
+      },
+      "id": "node/1180785705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180803094",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Roan Street",
+        "operator": "Source London",
+        "socket:type1": "2",
+        "socket:type2": "2",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0134183,
+          51.4799214
+        ]
+      },
+      "id": "node/1180803094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180807691",
+        "amenity": "charging_station",
+        "name": "Electric Car Charge Point",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0135406,
+          51.4958121
+        ]
+      },
+      "id": "node/1180807691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1185970242",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0163994,
+          51.4890029
+        ]
+      },
+      "id": "node/1185970242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757071171",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1146511,
+          51.5212663
+        ]
+      },
+      "id": "node/1757071171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1938363400",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0743908,
+          51.4942782
+        ]
+      },
+      "id": "node/1938363400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1938363405",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0727329,
+          51.4940144
+        ]
+      },
+      "id": "node/1938363405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962924473",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1184062,
+          51.5149966
+        ]
+      },
+      "id": "node/1962924473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977202166",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3329801,
+          51.5899678
+        ]
+      },
+      "id": "node/1977202166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2213631159",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1174107,
+          51.5245119
+        ]
+      },
+      "id": "node/2213631159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2319936210",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "operator": "Not known",
+        "voltage": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0441157,
+          51.5364183
+        ]
+      },
+      "id": "node/2319936210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2437564824",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "note": "3 stocky poles with glowing blue LEDs, with 3 car bays",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1371844,
+          51.4960216
+        ]
+      },
+      "id": "node/2437564824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2456198840",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2232126,
+          51.5717531
+        ]
+      },
+      "id": "node/2456198840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517244446",
+        "amenity": "charging_station",
+        "charging_station:capacity": "2",
+        "note": "The two N/S alligned bays either side ore reserved for charging.  N side says 7kW; S side 3kW (maybe kWH).",
+        "source": "survey;Bing 2012",
+        "survey:date": "2013-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2953983,
+          51.5734556
+        ]
+      },
+      "id": "node/2517244446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2916063434",
+        "addr:city": "London",
+        "addr:postcode": "E16 1GB",
+        "addr:street": "Tidal Basin Rd",
+        "alt_name": "The Crystal (London) Supercharger",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Tesla Supercharger London - The Royal Victoria Docks",
+        "opening_hours": "24/7",
+        "operator": "Tesla Motors Inc.",
+        "socket:tesla_supercharger": "2",
+        "tesla:ref": "thecrystalsupercharger",
+        "website": "https://www.teslamotors.com/nl_NL/findus/location/supercharger/thecrystalsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0159397,
+          51.5070465
+        ]
+      },
+      "id": "node/2916063434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3046952985",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "description": "in the Canada Square Car Park",
+        "layer": "-2",
+        "name": "Tesla Supercharger Canary Wharf",
+        "opening_hours": "24/7",
+        "operator": "Tesla Motors Inc.",
+        "socket:tesla_supercharger": "4",
+        "tesla:ref": "canarywharfsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0157617,
+          51.5044675
+        ]
+      },
+      "id": "node/3046952985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3057048956",
+        "access": "customers",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "car": "yes",
+        "name": "Tesla Supercharger",
+        "opening_hours": "24/7",
+        "operator": "Tesla Motors Inc.",
+        "socket:tesla_supercharger": "2",
+        "tesla:ref": "hyattlondonsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.157401,
+          51.5157251
+        ]
+      },
+      "id": "node/3057048956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3089880162",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0640243,
+          51.6153252
+        ]
+      },
+      "id": "node/3089880162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3093667942",
+        "amenity": "charging_station",
+        "car": "yes",
+        "socket:type3": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.076465,
+          51.5662583
+        ]
+      },
+      "id": "node/3093667942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3137361161",
+        "access": "customers",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "8",
+        "motorcar": "yes",
+        "name": "London - Westfield White City Supercharger",
+        "opening_hours": "24/7",
+        "operator": "Tesla Motors Inc.",
+        "tesla:ref": "londonkysupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2219968,
+          51.5066209
+        ]
+      },
+      "id": "node/3137361161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3137364447",
+        "access": "customers",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "motorcar": "yes",
+        "name": "London - Tower Supercharger",
+        "opening_hours": "24/7",
+        "operator": "Tesla Motors Inc.",
+        "tesla:ref": "londontowersupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0733054,
+          51.5065114
+        ]
+      },
+      "id": "node/3137364447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248948327",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Source London",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1009079,
+          51.507073
+        ]
+      },
+      "id": "node/3248948327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280906970",
+        "access": "customers",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "car": "yes",
+        "name": "Tesla Supercharger Brent Cross",
+        "opening_hours": "24/7",
+        "operator": "Tesla Motors Inc.",
+        "socket:tesla_supercharger": "2",
+        "tesla:ref": "brentcrosssupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2236782,
+          51.5775159
+        ]
+      },
+      "id": "node/3280906970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3330952161",
+        "amenity": "charging_station",
+        "operator": "Ecotricity",
+        "socket:chademo": "1",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2602662,
+          51.5534585
+        ]
+      },
+      "id": "node/3330952161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3335885009",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "operator": "Source London",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0993289,
+          51.500063
+        ]
+      },
+      "id": "node/3335885009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3335885010",
+        "amenity": "charging_station",
+        "amperage": "13",
+        "operator": "Source London",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0970564,
+          51.5029273
+        ]
+      },
+      "id": "node/3335885010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3468345307",
+        "amenity": "charging_station",
+        "operator": "Chargemaster",
+        "ref": "100 10506; 100 10507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1426048,
+          51.5098314
+        ]
+      },
+      "id": "node/3468345307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561534936",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1446962,
+          51.5094456
+        ]
+      },
+      "id": "node/3561534936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561534937",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1447442,
+          51.5094867
+        ]
+      },
+      "id": "node/3561534937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4010926166",
+        "amenity": "charging_station",
+        "power_supply": "yes",
+        "source": "gps+mapnoter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1708224,
+          51.5266574
+        ]
+      },
+      "id": "node/4010926166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079971131",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "authentication:membership_card": "Source London",
+        "fee": "yes",
+        "name": "Hackney/Bocking Street",
+        "operator": "Source London",
+        "socket:type1": "1",
+        "socket:type2": "1",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0573043,
+          51.5373076
+        ]
+      },
+      "id": "node/4079971131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130123719",
+        "amenity": "charging_station",
+        "name": "High Barnet Station NCP Car Park",
+        "operator": "Source London",
+        "socket:type1": "4",
+        "socket:type2": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1930045,
+          51.6495222
+        ]
+      },
+      "id": "node/4130123719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4171795051",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057063,
+          51.5446732
+        ]
+      },
+      "id": "node/4171795051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244149677",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1128855,
+          51.5113984
+        ]
+      },
+      "id": "node/4244149677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406389190",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0610134,
+          51.4606388
+        ]
+      },
+      "id": "node/4406389190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4575584658",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "authentication:membership_card": "Source London",
+        "fee": "yes",
+        "name": "Hackney/Lavender Grove",
+        "operator": "Source London",
+        "socket:type1": "2",
+        "socket:type2": "2",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0696623,
+          51.541103
+        ]
+      },
+      "id": "node/4575584658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4799309025",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2002201,
+          51.4217592
+        ]
+      },
+      "id": "node/4799309025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925284618",
+        "amenity": "charging_station",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2210799,
+          51.4931819
+        ]
+      },
+      "id": "node/4925284618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5071317268",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "authentication:none": "no",
+        "authentication:phone_call": "no",
+        "authentication:short_message": "no",
+        "bicycle": "no",
+        "capacity": "1",
+        "car": "yes",
+        "operator": "Source London",
+        "scooter": "no",
+        "truck": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1793138,
+          51.497671
+        ]
+      },
+      "id": "node/5071317268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5258192840",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "authentication:none": "no",
+        "authentication:phone_call": "no",
+        "authentication:short_message": "no",
+        "bicycle": "no",
+        "capacity": "2",
+        "motorcar": "yes",
+        "operator": "NSB",
+        "scooter": "no",
+        "truck": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3513788,
+          51.5644418
+        ]
+      },
+      "id": "node/5258192840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5262372193",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1283703,
+          51.4948837
+        ]
+      },
+      "id": "node/5262372193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5370002213",
+        "amenity": "charging_station",
+        "fee": "yes",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1171459,
+          51.4478741
+        ]
+      },
+      "id": "node/5370002213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371991500",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1659684,
+          51.4793406
+        ]
+      },
+      "id": "node/5371991500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5406092488",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1896808,
+          51.4458542
+        ]
+      },
+      "id": "node/5406092488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5406092489",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1899119,
+          51.4458565
+        ]
+      },
+      "id": "node/5406092489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5406092490",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1900743,
+          51.4458402
+        ]
+      },
+      "id": "node/5406092490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5422090992",
+        "amenity": "charging_station",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1020632,
+          51.5061982
+        ]
+      },
+      "id": "node/5422090992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484774405",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "authentication:none": "no",
+        "authentication:phone_call": "no",
+        "authentication:short_message": "no",
+        "bicycle": "no",
+        "capacity": "1",
+        "car": "no",
+        "name": "Shell Recharge Barnet",
+        "operator": "Allego",
+        "payment:coins": "no",
+        "payment:notes": "no",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:type2": "1",
+        "socket:type2_combo": "1",
+        "truck": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2538563,
+          51.6427187
+        ]
+      },
+      "id": "node/5484774405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5493233146",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0937836,
+          51.504667
+        ]
+      },
+      "id": "node/5493233146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498310622",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2860941,
+          51.5947774
+        ]
+      },
+      "id": "node/5498310622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5528087655",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2425757,
+          51.5931164
+        ]
+      },
+      "id": "node/5528087655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5528087656",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2418139,
+          51.5928231
+        ]
+      },
+      "id": "node/5528087656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5528087657",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2411782,
+          51.5926015
+        ]
+      },
+      "id": "node/5528087657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5528087658",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2407257,
+          51.5924478
+        ]
+      },
+      "id": "node/5528087658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532794924",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1360146,
+          51.5623283
+        ]
+      },
+      "id": "node/5532794924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5562413990",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "operator": "Polar Plus",
+        "website": "https://www.zap-map.com/pts/1a7bgm8/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0237368,
+          51.5956655
+        ]
+      },
+      "id": "node/5562413990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5575828082",
+        "amenity": "charging_station",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1153882,
+          51.5264678
+        ]
+      },
+      "id": "node/5575828082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5580371911",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1048745,
+          51.5281987
+        ]
+      },
+      "id": "node/5580371911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5584773894",
+        "amenity": "charging_station",
+        "car": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1237584,
+          51.5064539
+        ]
+      },
+      "id": "node/5584773894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624140180",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3006593,
+          51.4853928
+        ]
+      },
+      "id": "node/5624140180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656529008",
+        "amenity": "charging_station",
+        "capacity": "50",
+        "operator": "Polar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0015734,
+          51.4211248
+        ]
+      },
+      "id": "node/5656529008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5672866049",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0857801,
+          51.6051118
+        ]
+      },
+      "id": "node/5672866049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745565923",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0089364,
+          51.5413257
+        ]
+      },
+      "id": "node/5745565923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745565924",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0088237,
+          51.5413618
+        ]
+      },
+      "id": "node/5745565924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5881510172",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Polar Network"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1761603,
+          51.6311195
+        ]
+      },
+      "id": "node/5881510172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5898864394",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2429202,
+          51.4557611
+        ]
+      },
+      "id": "node/5898864394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5911244899",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2522712,
+          51.4531872
+        ]
+      },
+      "id": "node/5911244899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5911266688",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1959258,
+          51.4006605
+        ]
+      },
+      "id": "node/5911266688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922430649",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0099045,
+          51.5694085
+        ]
+      },
+      "id": "node/5922430649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5940584978",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2379169,
+          51.4510438
+        ]
+      },
+      "id": "node/5940584978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5974219145",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1506381,
+          51.4613055
+        ]
+      },
+      "id": "node/5974219145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019029787",
+        "amenity": "charging_station",
+        "note": "3 stands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1567493,
+          51.4655399
+        ]
+      },
+      "id": "node/6019029787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6030248987",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "capacity": "1",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "Source London",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3079515,
+          51.5715233
+        ]
+      },
+      "id": "node/6030248987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6030248988",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "capacity": "1",
+        "car": "yes",
+        "fee": "yes",
+        "operator": "Source London",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.307906,
+          51.5714493
+        ]
+      },
+      "id": "node/6030248988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6042769618",
+        "amenity": "charging_station",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2592993,
+          51.5927757
+        ]
+      },
+      "id": "node/6042769618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6089952404",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2475038,
+          51.5339126
+        ]
+      },
+      "id": "node/6089952404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6094930293",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "motorcar": "yes",
+        "operator": "Source London",
+        "ref": "9860000138",
+        "scooter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1593368,
+          51.5018483
+        ]
+      },
+      "id": "node/6094930293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110662372",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "car": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.247246,
+          51.5166388
+        ]
+      },
+      "id": "node/6110662372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6171542164",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2667441,
+          51.5995429
+        ]
+      },
+      "id": "node/6171542164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6231058177",
+        "amenity": "charging_station",
+        "car": "yes",
+        "operator": "ESB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1814058,
+          51.585859
+        ]
+      },
+      "id": "node/6231058177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6308571256",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "capacity": "0",
+        "name": "ChargePoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1328812,
+          51.5151046
+        ]
+      },
+      "id": "node/6308571256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6326908044",
+        "amenity": "charging_station",
+        "cyclestreets_id": "106750",
+        "highway": "street_lamp",
+        "name": "ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3229602,
+          51.4529824
+        ]
+      },
+      "id": "node/6326908044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6343898840",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0244644,
+          51.4495081
+        ]
+      },
+      "id": "node/6343898840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6343898841",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0245087,
+          51.449514
+        ]
+      },
+      "id": "node/6343898841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6344878985",
+        "amenity": "charging_station",
+        "capacity": "7",
+        "operator": "Polar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0274647,
+          51.4118094
+        ]
+      },
+      "id": "node/6344878985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6344878986",
+        "amenity": "charging_station",
+        "capacity": "50",
+        "operator": "Polar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0016251,
+          51.4213417
+        ]
+      },
+      "id": "node/6344878986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6344878987",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0108654,
+          51.4064451
+        ]
+      },
+      "id": "node/6344878987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6374730652",
+        "amenity": "charging_station",
+        "capacity": "6",
+        "operator": "Elektromotive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2401382,
+          51.4046966
+        ]
+      },
+      "id": "node/6374730652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387828804",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1312871,
+          51.5199278
+        ]
+      },
+      "id": "node/6387828804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6394657753",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1471886,
+          51.4657977
+        ]
+      },
+      "id": "node/6394657753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6394808803",
+        "amenity": "charging_station",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2181153,
+          51.4596134
+        ]
+      },
+      "id": "node/6394808803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6404660932",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0508917,
+          51.4104847
+        ]
+      },
+      "id": "node/6404660932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6409613585",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.22959,
+          51.4030038
+        ]
+      },
+      "id": "node/6409613585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6410056359",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "capacity": "1",
+        "name": "ChargePoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0972656,
+          51.5896775
+        ]
+      },
+      "id": "node/6410056359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415120735",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "capacity": "1",
+        "name": "ChargePoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0973092,
+          51.5896428
+        ]
+      },
+      "id": "node/6415120735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437128246",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2139786,
+          51.4091446
+        ]
+      },
+      "id": "node/6437128246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6442383064",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "capacity": "1",
+        "name": "ChargePoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0831101,
+          51.5233749
+        ]
+      },
+      "id": "node/6442383064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6442419920",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1106634,
+          51.4891005
+        ]
+      },
+      "id": "node/6442419920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6459989186",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2390827,
+          51.3943308
+        ]
+      },
+      "id": "node/6459989186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6524005137",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1760766,
+          51.4979578
+        ]
+      },
+      "id": "node/6524005137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6524252947",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136807,
+          51.5174447
+        ]
+      },
+      "id": "node/6524252947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6528660998",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1420997,
+          51.5235451
+        ]
+      },
+      "id": "node/6528660998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6535298167",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London",
+        "ref": "zone 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3050576,
+          51.5053979
+        ]
+      },
+      "id": "node/6535298167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539397339",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3062847,
+          51.4998403
+        ]
+      },
+      "id": "node/6539397339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539399039",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3082595,
+          51.5022026
+        ]
+      },
+      "id": "node/6539399039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539403794",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3148872,
+          51.5005525
+        ]
+      },
+      "id": "node/6539403794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539421306",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "covered": "no",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3249016,
+          51.5037498
+        ]
+      },
+      "id": "node/6539421306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6553565230",
+        "amenity": "charging_station",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0981995,
+          51.3701396
+        ]
+      },
+      "id": "node/6553565230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6561914331",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2295911,
+          51.4030054
+        ]
+      },
+      "id": "node/6561914331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6561914332",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2229747,
+          51.3917551
+        ]
+      },
+      "id": "node/6561914332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6562794996",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "name": "Shell Recharge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0888344,
+          51.5253139
+        ]
+      },
+      "id": "node/6562794996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564473845",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "name": "Elektrobay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0948213,
+          51.5272786
+        ]
+      },
+      "id": "node/6564473845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564477954",
+        "amenity": "charging_station",
+        "backrest": "yes",
+        "capacity": "1",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0946923,
+          51.5272388
+        ]
+      },
+      "id": "node/6564477954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564477955",
+        "amenity": "charging_station",
+        "backrest": "yes",
+        "capacity": "1",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0946703,
+          51.5271894
+        ]
+      },
+      "id": "node/6564477955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565155678",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "capacity": "1",
+        "fee": "yes",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0893154,
+          51.526897
+        ]
+      },
+      "id": "node/6565155678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565155679",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "yes",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0905709,
+          51.5268503
+        ]
+      },
+      "id": "node/6565155679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565155680",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "yes",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0905398,
+          51.5268559
+        ]
+      },
+      "id": "node/6565155680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565189508",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "capacity": "1",
+        "fee": "yes",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0913927,
+          51.5273661
+        ]
+      },
+      "id": "node/6565189508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571043581",
+        "amenity": "charging_station",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0475991,
+          51.5126086
+        ]
+      },
+      "id": "node/6571043581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571043583",
+        "amenity": "charging_station",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0476117,
+          51.5128127
+        ]
+      },
+      "id": "node/6571043583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6572721476",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1230997,
+          51.5234438
+        ]
+      },
+      "id": "node/6572721476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6648345355",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "car": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2309087,
+          51.4159584
+        ]
+      },
+      "id": "node/6648345355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6648345356",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "car": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2345069,
+          51.4182785
+        ]
+      },
+      "id": "node/6648345356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6648352487",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "car": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2448669,
+          51.4167504
+        ]
+      },
+      "id": "node/6648352487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6683351205",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1947793,
+          51.4752015
+        ]
+      },
+      "id": "node/6683351205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697076926",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0003996,
+          51.4855888
+        ]
+      },
+      "id": "node/6697076926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697076927",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0003165,
+          51.4856422
+        ]
+      },
+      "id": "node/6697076927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697076928",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0002253,
+          51.4857007
+        ]
+      },
+      "id": "node/6697076928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6701025765",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "car": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2337384,
+          51.4185545
+        ]
+      },
+      "id": "node/6701025765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6712551811",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0183248,
+          51.4201122
+        ]
+      },
+      "id": "node/6712551811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721726031",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "1",
+        "car": "yes",
+        "charging_station:output": "150 kW",
+        "fee": "yes",
+        "operator": "BP",
+        "payment:credit_cards": "yes",
+        "payment:visa": "no",
+        "socket:chademo": "1",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3960134,
+          51.4763531
+        ]
+      },
+      "id": "node/6721726031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721726032",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "1",
+        "car": "yes",
+        "charging_station:output": "150 kW",
+        "fee": "yes",
+        "operator": "BP",
+        "payment:credit_cards": "yes",
+        "payment:visa": "no",
+        "socket:chademo": "1",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3959356,
+          51.4763664
+        ]
+      },
+      "id": "node/6721726032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6797082650",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2852662,
+          51.4757171
+        ]
+      },
+      "id": "node/6797082650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6797108112",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2864419,
+          51.467033
+        ]
+      },
+      "id": "node/6797108112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6804164556",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1691124,
+          51.4631289
+        ]
+      },
+      "id": "node/6804164556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6819420658",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3257433,
+          51.4987058
+        ]
+      },
+      "id": "node/6819420658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6819420659",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3257084,
+          51.4986624
+        ]
+      },
+      "id": "node/6819420659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6819420660",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3256816,
+          51.4986273
+        ]
+      },
+      "id": "node/6819420660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6871715010",
+        "amenity": "charging_station",
+        "car": "yes",
+        "fee": "yes",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3210393,
+          51.5058295
+        ]
+      },
+      "id": "node/6871715010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6877543097",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1543323,
+          51.4941583
+        ]
+      },
+      "id": "node/6877543097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6879975309",
+        "amenity": "charging_station",
+        "capacity": "12",
+        "operator": "Elektromotive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2400792,
+          51.4043988
+        ]
+      },
+      "id": "node/6879975309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6883892545",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0442161,
+          51.4680675
+        ]
+      },
+      "id": "node/6883892545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6893229927",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0368319,
+          51.4759822
+        ]
+      },
+      "id": "node/6893229927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6911735136",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "motorcar": "yes",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0775251,
+          51.5264753
+        ]
+      },
+      "id": "node/6911735136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915510798",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3265981,
+          51.5048199
+        ]
+      },
+      "id": "node/6915510798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915573648",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "1",
+        "car": "yes",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ubitricity",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3247265,
+          51.5021416
+        ]
+      },
+      "id": "node/6915573648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915583360",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "1",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ubitricity",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.323023,
+          51.5000203
+        ]
+      },
+      "id": "node/6915583360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915583361",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "1",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Ubitricity",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3225856,
+          51.5001736
+        ]
+      },
+      "id": "node/6915583361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6919655077",
+        "amenity": "charging_station",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0278692,
+          51.5397542
+        ]
+      },
+      "id": "node/6919655077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920078989",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0100135,
+          51.4800566
+        ]
+      },
+      "id": "node/6920078989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920078990",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0102136,
+          51.4800646
+        ]
+      },
+      "id": "node/6920078990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920078992",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0101103,
+          51.4800616
+        ]
+      },
+      "id": "node/6920078992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7047056321",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1202318,
+          51.5985538
+        ]
+      },
+      "id": "node/7047056321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7047056322",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.120288,
+          51.5986075
+        ]
+      },
+      "id": "node/7047056322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7047056323",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1203413,
+          51.5986576
+        ]
+      },
+      "id": "node/7047056323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081135815",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0111199,
+          51.4977222
+        ]
+      },
+      "id": "node/7081135815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7084132588",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "layer": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.162631,
+          51.5011719
+        ]
+      },
+      "id": "node/7084132588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101340262",
+        "amenity": "charging_station",
+        "car": "yes",
+        "fee": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1895679,
+          51.4778895
+        ]
+      },
+      "id": "node/7101340262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101340263",
+        "amenity": "charging_station",
+        "car": "yes",
+        "fee": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.189516,
+          51.4778658
+        ]
+      },
+      "id": "node/7101340263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101340264",
+        "amenity": "charging_station",
+        "car": "yes",
+        "fee": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1895419,
+          51.477878
+        ]
+      },
+      "id": "node/7101340264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7131245002",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.02433,
+          51.44573
+        ]
+      },
+      "id": "node/7131245002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178894205",
+        "amenity": "charging_station",
+        "car": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3309605,
+          51.5145748
+        ]
+      },
+      "id": "node/7178894205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178894206",
+        "amenity": "charging_station",
+        "car": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3309762,
+          51.5146295
+        ]
+      },
+      "id": "node/7178894206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178894207",
+        "amenity": "charging_station",
+        "car": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3309885,
+          51.5146893
+        ]
+      },
+      "id": "node/7178894207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7214086410",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "2",
+        "motorcar": "yes",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0003406,
+          51.5563546
+        ]
+      },
+      "id": "node/7214086410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7218487356",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1578668,
+          51.4663602
+        ]
+      },
+      "id": "node/7218487356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7241094693",
+        "amenity": "charging_station",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0442674,
+          51.4680644
+        ]
+      },
+      "id": "node/7241094693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7248679209",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2867925,
+          51.4764532
+        ]
+      },
+      "id": "node/7248679209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7254787753",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3266042,
+          51.4961198
+        ]
+      },
+      "id": "node/7254787753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7277538666",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1184404,
+          51.5150318
+        ]
+      },
+      "id": "node/7277538666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285021526",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "chargemaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1745501,
+          51.3975908
+        ]
+      },
+      "id": "node/7285021526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285445179",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16369,
+          51.4934386
+        ]
+      },
+      "id": "node/7285445179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285448185",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1631877,
+          51.4965578
+        ]
+      },
+      "id": "node/7285448185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285477298",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1776313,
+          51.4938761
+        ]
+      },
+      "id": "node/7285477298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285673227",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "chargemaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1746264,
+          51.3975467
+        ]
+      },
+      "id": "node/7285673227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7287963256",
+        "amenity": "charging_station",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0651582,
+          51.4276176
+        ]
+      },
+      "id": "node/7287963256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7288010238",
+        "amenity": "charging_station",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0651941,
+          51.4275769
+        ]
+      },
+      "id": "node/7288010238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7289797331",
+        "amenity": "charging_station",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204611,
+          51.4032861
+        ]
+      },
+      "id": "node/7289797331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7292272017",
+        "amenity": "charging_station",
+        "brand": "ChargePoint",
+        "brand:wikidata": "Q5176149",
+        "brand:wikipedia": "en:ChargePoint",
+        "name": "ChargePoint",
+        "operator": "TfL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2111281,
+          51.5003559
+        ]
+      },
+      "id": "node/7292272017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7294429026",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1635687,
+          51.4919887
+        ]
+      },
+      "id": "node/7294429026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7322094474",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0560056,
+          51.5306022
+        ]
+      },
+      "id": "node/7322094474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7330318502",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0558944,
+          51.5306122
+        ]
+      },
+      "id": "node/7330318502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7359534864",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "highway": "street_lamp",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277942,
+          51.4565804
+        ]
+      },
+      "id": "node/7359534864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7359534865",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "highway": "street_lamp",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1280148,
+          51.4563104
+        ]
+      },
+      "id": "node/7359534865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380414008",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1167941,
+          51.4640374
+        ]
+      },
+      "id": "node/7380414008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392762269",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London",
+        "website": "https://www.sourcelondon.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2872548,
+          51.4881314
+        ]
+      },
+      "id": "node/7392762269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7395182533",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2855318,
+          51.4727282
+        ]
+      },
+      "id": "node/7395182533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398099872",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.29082,
+          51.4723993
+        ]
+      },
+      "id": "node/7398099872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398102576",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2894097,
+          51.4755396
+        ]
+      },
+      "id": "node/7398102576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398115750",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2916065,
+          51.4703877
+        ]
+      },
+      "id": "node/7398115750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398119319",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.290331,
+          51.4737428
+        ]
+      },
+      "id": "node/7398119319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7429085428",
+        "access": "taxi",
+        "amenity": "charging_station",
+        "operator": "Transport for London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2995351,
+          51.4647168
+        ]
+      },
+      "id": "node/7429085428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7471971759",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.268825,
+          51.4817265
+        ]
+      },
+      "id": "node/7471971759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7472024472",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2695904,
+          51.4817053
+        ]
+      },
+      "id": "node/7472024472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865316",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1845653,
+          51.5269193
+        ]
+      },
+      "id": "node/7529865316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865317",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1848491,
+          51.5267769
+        ]
+      },
+      "id": "node/7529865317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865318",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1852694,
+          51.5265852
+        ]
+      },
+      "id": "node/7529865318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865319",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1862772,
+          51.5260924
+        ]
+      },
+      "id": "node/7529865319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865320",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1866579,
+          51.5259213
+        ]
+      },
+      "id": "node/7529865320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865321",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1876789,
+          51.5255503
+        ]
+      },
+      "id": "node/7529865321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865322",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1882334,
+          51.5253463
+        ]
+      },
+      "id": "node/7529865322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865323",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.189195,
+          51.525004
+        ]
+      },
+      "id": "node/7529865323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865324",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1906957,
+          51.5244605
+        ]
+      },
+      "id": "node/7529865324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865325",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1918751,
+          51.5240374
+        ]
+      },
+      "id": "node/7529865325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865326",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1930589,
+          51.5236021
+        ]
+      },
+      "id": "node/7529865326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865327",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1932658,
+          51.5233515
+        ]
+      },
+      "id": "node/7529865327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865328",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1926936,
+          51.5235432
+        ]
+      },
+      "id": "node/7529865328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865329",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1908959,
+          51.5242031
+        ]
+      },
+      "id": "node/7529865329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865330",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1890717,
+          51.5248342
+        ]
+      },
+      "id": "node/7529865330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865331",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.187395,
+          51.5254325
+        ]
+      },
+      "id": "node/7529865331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865332",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1864576,
+          51.5257967
+        ]
+      },
+      "id": "node/7529865332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865333",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.186077,
+          51.5259774
+        ]
+      },
+      "id": "node/7529865333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865334",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1854872,
+          51.5262608
+        ]
+      },
+      "id": "node/7529865334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865335",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.185078,
+          51.5264606
+        ]
+      },
+      "id": "node/7529865335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865336",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1848029,
+          51.5265921
+        ]
+      },
+      "id": "node/7529865336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865337",
+        "access": "residents",
+        "amenity": "charging_station",
+        "highway": "street_lamp",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1845279,
+          51.5267125
+        ]
+      },
+      "id": "node/7529865337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529865338",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1826311,
+          51.527679
+        ]
+      },
+      "id": "node/7529865338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7554696955",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1616516,
+          51.4881875
+        ]
+      },
+      "id": "node/7554696955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7554696956",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1717338,
+          51.4939637
+        ]
+      },
+      "id": "node/7554696956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7563836116",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1535343,
+          51.4946338
+        ]
+      },
+      "id": "node/7563836116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7566932948",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.167692,
+          51.4839236
+        ]
+      },
+      "id": "node/7566932948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7566932949",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1681008,
+          51.4844425
+        ]
+      },
+      "id": "node/7566932949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7578441702",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0929393,
+          51.5631438
+        ]
+      },
+      "id": "node/7578441702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592935593",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1601537,
+          51.4937236
+        ]
+      },
+      "id": "node/7592935593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7596309013",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1704829,
+          51.4899187
+        ]
+      },
+      "id": "node/7596309013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7597521193",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "1",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "Ubitricity",
+        "ref": "adbi",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3241155,
+          51.5046639
+        ]
+      },
+      "id": "node/7597521193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7600939693",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "capacity": "3",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1939398,
+          51.4186206
+        ]
+      },
+      "id": "node/7600939693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7608261757",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Source London",
+        "voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3063072,
+          51.4999485
+        ]
+      },
+      "id": "node/7608261757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618040069",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1746664,
+          51.4892686
+        ]
+      },
+      "id": "node/7618040069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7620519485",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0075368,
+          51.5678492
+        ]
+      },
+      "id": "node/7620519485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638164252",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1371857,
+          51.5775209
+        ]
+      },
+      "id": "node/7638164252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7638864488",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "capacity": "3",
+        "name": "Source London",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.133397,
+          51.399511
+        ]
+      },
+      "id": "node/7638864488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7640364666",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2918414,
+          51.4741152
+        ]
+      },
+      "id": "node/7640364666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7640981079",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "yes",
+        "operator": "ESB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1446325,
+          51.5767721
+        ]
+      },
+      "id": "node/7640981079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7657308109",
+        "amenity": "charging_station",
+        "brand": "Source London",
+        "brand:wikidata": "Q7565133",
+        "brand:wikipedia": "en:Source London",
+        "capacity": "2",
+        "name": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2202308,
+          51.3850908
+        ]
+      },
+      "id": "node/7657308109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7661707148",
+        "amenity": "charging_station",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3182678,
+          51.5156488
+        ]
+      },
+      "id": "node/7661707148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7678310852",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.294908,
+          51.4669422
+        ]
+      },
+      "id": "node/7678310852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7678467798",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitrcity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2936489,
+          51.4677647
+        ]
+      },
+      "id": "node/7678467798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7678473764",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2953094,
+          51.4665859
+        ]
+      },
+      "id": "node/7678473764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7678475085",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295628,
+          51.4664201
+        ]
+      },
+      "id": "node/7678475085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7689824672",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2894881,
+          51.5097691
+        ]
+      },
+      "id": "node/7689824672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7691079748",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "charge": "0.5 GBP + 0.3 GBP/kwhr",
+        "fee": "yes",
+        "operator": "Genie Point",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0063322,
+          51.5432686
+        ]
+      },
+      "id": "node/7691079748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7691079749",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "charge": "0.5 GBP + 0.3 GBP/kwhr",
+        "fee": "yes",
+        "operator": "Genie Point",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.006334,
+          51.5432228
+        ]
+      },
+      "id": "node/7691079749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7693019780",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.282445,
+          51.4755701
+        ]
+      },
+      "id": "node/7693019780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7693028246",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.281045,
+          51.4751504
+        ]
+      },
+      "id": "node/7693028246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741799019",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2849274,
+          51.4792614
+        ]
+      },
+      "id": "node/7741799019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741829317",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2851554,
+          51.4790257
+        ]
+      },
+      "id": "node/7741829317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741858550",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Ubitricity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2845788,
+          51.4794934
+        ]
+      },
+      "id": "node/7741858550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7762145346",
+        "amenity": "charging_station",
+        "fixme": "Check exact position."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2248679,
+          51.5080569
+        ]
+      },
+      "id": "node/7762145346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7775736505",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1595837,
+          51.4925034
+        ]
+      },
+      "id": "node/7775736505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7778265613",
+        "amenity": "charging_station",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1759671,
+          51.4728013
+        ]
+      },
+      "id": "node/7778265613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799177281",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1875523,
+          51.4967036
+        ]
+      },
+      "id": "node/7799177281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812767181",
+        "amenity": "charging_station",
+        "name": "Chargemaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3042824,
+          51.3945516
+        ]
+      },
+      "id": "node/7812767181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820787840",
+        "access": "customers",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Source London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1762954,
+          51.4221427
+        ]
+      },
+      "id": "node/7820787840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820787841",
+        "access": "customers",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "ESB EV Solutions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1753526,
+          51.4209669
+        ]
+      },
+      "id": "node/7820787841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7823741008",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2990592,
+          51.3906166
+        ]
+      },
+      "id": "node/7823741008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7824175360",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2990656,
+          51.3906759
+        ]
+      },
+      "id": "node/7824175360"
+    }
+  ]
+}
